@@ -19,5 +19,5 @@ This repository contains Terraform configuration files to provision an Amazon El
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/learn-terraform-provision-eks-cluster.git
-   cd learn-terraform-provision-eks-cluster
+   git clone https://github.com/candidate-6/my-infra.git
+   cd eks-terraform
