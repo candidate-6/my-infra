@@ -14,8 +14,8 @@ This repository contains Terraform code to provision an EKS cluster and deploy a
 │   ├── variables.tfvars      # Variable values for Terraform
     └── README.md                 # Documentation for the repository
 ├── .github/workflows/        # GitHub Action pipelines
-│   ├── terraform-plan.yml    # Pipeline for Terraform Plan
-│   └── terraform-apply.yml   # Pipeline for Terraform Apply
+│   ├── plan.yml    # Pipeline for Terraform Plan
+│   └── apply.yml   # Pipeline for Terraform Apply
 ├── README.md                 # Documentation for the repository
 ```
 
